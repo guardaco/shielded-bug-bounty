@@ -13,3 +13,5 @@ If you have questions, feel free to address us on [Twitter](https://twitter.com/
 
 
 Visit us https://guarda.co
+
+[![Available on Google Play](https://guarda.co/assets/images/home-poster-play.png)](https://play.google.com/store/apps/details?id=guarda.shielded)
